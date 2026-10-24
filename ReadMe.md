@@ -46,8 +46,7 @@ Each row in the CSV file must contain the following 5 fields:
 
 ```csv
 Agency Name,Agency State,Agency County,Agency City,Agency Request Portal URL
-Seattle Police Department,WA,King,Seattle,https://seattlewa.govqa.us/WEBAPP/_rs/
-Texas Department of Public Safety,TX,N/A,Austin,https://www.dps.texas.gov/section/media-and-communications/public-information-act
+Seattle Police Department,WA,King,Seattle,https://www.seattle.gov/public-records/public-records-request-center
 
 ```
 
