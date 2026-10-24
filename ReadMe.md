@@ -59,6 +59,7 @@ Texas Department of Public Safety,TX,N/A,Austin,https://www.dps.texas.gov/sectio
 2. Edit `public_records_portals.csv` using a text editor or spreadsheet tool (exporting back to raw CSV format).
 3. Double-Check Before Committing: Ensure no extra files, raw records, or PII were inadvertently included.
 4. Submit a Pull Request (PR) with a clear commit message indicating which agency entries were added or updated.
+5. If you're working on public records portals for another State outside of washington (Like Oregon), add a folder name it's official two letter state code
 
 ---
 
