@@ -1,2 +1,14 @@
-Agency Name,Agency State,Agency County,Agency City,Agency Request Portal URL
-Seattle Police Department,WA,King,Seattle,https://www.seattle.gov/public-records/public-records-request-center
+Agency Name,Agency State,Agency County,Agency City,Agency Request Portal,Request Type
+Adams County Sheriff's Office,WA,Adams,N/A,https://adamscountywa.nextrequest.com/,website
+Othello Police Department,WA,Adams,Othello,policerecords@othellowa.gov,email
+Seattle Police Department,WA,King,Seattle,https://www.seattle.gov/public-records/public-records-request-center,website
+Ritzville Police Department,WA,Adams,Ritzville,call the department for a form,form
+Asotin County Sheriff's Office,WA,Asotin,N/A,https://www.asotincountywa.gov/238/Records,email
+Asotin Police Department,WA,Asotin,Asotin,https://cityofasotin.org/asotin-police-department/police-information-safety-tips/,form
+Clarkston Police Department.WA.Asotin,Clarkston,https://clarkston-wa.com/departments/police-department/records/,email
+Benton County Sheriff's Office,WA,Benton,N/A,https://bcso.nextrequest.com/,website
+Kennewick Police Department,WA,Benton,Kennewick,https://kennewick.justfoia.com/publicportal/home/newrequest,website
+Prosser Police Department,WA,Benton,Prosser,https://cityofprosserwa.nextrequest.com/,website
+Richland Police Department,WA,Benton,Richland,https://www.richlandwa.gov/government/public-records/public-records-requests,website
+West Richland Police Department,WA,Benton,West Richland,records@westrichland.org,email
+Chelan County Sheriff's Office,WA,Chelan,N/A,https://chelancountywa.govqa.us/WEBAPP/_rs/SupportHome.aspx,website
