@@ -65,3 +65,21 @@ Seattle Police Department,WA,King,Seattle,https://www.seattle.gov/public-records
 ## Questions or Safety Issues
 
 If you identify an accidental upload of sensitive data, notice broken portal links, or need clarification on cataloging an entry, please contact the project lead immediately or open a non-sensitive GitHub Issue.
+
+---
+
+## Jurisdictions w/o Portals
+### Brewster Police Department,WA,Okanogan,Brewster
+
+The Police Department page states: "Juana Escobar, Administrative Assistant, for Public Records Requests, Call: (509) 689-2331 or Mail Requests to: P.O. Box 1074, Brewster, WA 98812"
+
+Okanogan County Has a Records Request Portal
+https://okanogancountywa.nextrequest.com/
+
+### Tonasket Police Department,WA,Okanogan,Tonasket
+
+Contracts with county sheriff
+
+### Winthrop Marshal's Office,WA,Okanogan,Winthrop
+
+"Marshal's Office Contact Us" section: Marshal at marshal@townofwinthrop.com, Town Hall 206 Riverside Ave / PO Box 459, Winthrop, WA 98862, 509-996-2320 (Mon–Thu 9am–4pm)
