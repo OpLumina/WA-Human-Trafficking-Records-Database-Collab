@@ -38,6 +38,7 @@ To protect privacy, ensure safety, and comply with GitHub policies, adhere stric
 * Do **NOT** upload PDF downloads, audio/video recordings, transcripts, or raw document files directly to this repository (no git commits, releases, or issue attachments for raw files).
 * Raw records must be stored in our team's designated secure storage location, **NOT** in this repository. This repo is strictly for managing metadata, code, and portal tracking.
 
+### 3. No Using Unapproved Request Templates for Records Requests
 ---
 
 ## Current Focus & Dataset
@@ -59,7 +60,7 @@ Each row in `request-info.csv` must include the following fields:
 * **Agency Request Portal** — Direct web link or contact email to submit public records requests
 * **Request Type** — Type of request to be made (e.g. Email, Phone, Form, Web Portal)
 * **Priority** — How high the priority is to request that department's records (High, Medium, Low & Completed), Completed means the records have already been processed
-
+* **Already Requested** — If the records request has already been submitted, please generate a PR or email cm.stupak@gmail.com if a request is made so others don't request the same thing
 ---
 
 ## Questions or Safety Issues
