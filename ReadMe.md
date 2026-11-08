@@ -46,7 +46,7 @@ Each row in the CSV file must contain the following fields:
 
 You can contribute to this project by submitting public records requests to law enforcement agencies:
 
-1. **Find an Agency**: Use the CSV file (`request-info.csv`) to locate an agency portal.
+1. **Find an Agency**: Use the CSV file (`request-info.csv`) to locate an agency portal that hasn't already been requested (see `Already Requested` Row in `request-info.csv`).
 2. **Submit a Request**: Use the provided request template (`WA-Request-Template.txt`) to file your public records request through the agency's portal or email.
 3. **Forward Communications & Responses**: Once you receive correspondence, tracking updates, or response files from the agency, **do not upload raw files or PII to GitHub**. Instead, forward all communications and responses directly via email to **cm.stupak@gmail.com**.
 4. **Database Access & Sharing Requests**: If you need access to the central database, or wish to request and share records/findings, please email **cm.stupak@gmail.com** directly.
