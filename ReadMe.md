@@ -1,5 +1,4 @@
-```python
-full_readme_content = """# Human Trafficking Public Records Index
+# Human Trafficking Public Records Index
 
 Welcome to the Human Trafficking Public Records Index project. This repository serves as a centralized metadata registry to track public records requests, state and local portals, and information disclosures from Law Enforcement (LE) agencies.
 
@@ -140,5 +139,3 @@ You can contribute to this project by submitting public records requests to law 
 ## Questions or Safety Issues
 
 If you identify an accidental upload of sensitive data, notice broken portal links, or need clarification on cataloging an entry, please contact the project lead immediately via **cm.stupak@gmail.com** or open a non-sensitive GitHub Issue.
-
-```
