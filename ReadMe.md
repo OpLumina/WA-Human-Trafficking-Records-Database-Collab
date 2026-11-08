@@ -57,6 +57,8 @@ Each row in `request-info.csv` must include the following fields:
 * **Agency County** — County where the agency operates (e.g., King)
 * **Agency City** — Primary city where the agency is located (e.g., Seattle)
 * **Agency Request Portal** — Direct web link or contact email to submit public records requests
+* **Request Type** — Type of request to be made (e.g. Email, Phone, Form, Web Portal)
+* **Priority** — How high the priority is to request that department's records (High, Medium, Low & Completed), Completed means the records have already been processed
 
 ---
 
