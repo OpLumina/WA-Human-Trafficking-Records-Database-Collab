@@ -24,7 +24,7 @@ To protect privacy, ensure safety, and comply with GitHub usage policies, please
 
 ## Current Focus & Dataset
 
-Our current primary task is to build, verify, and maintain the central CSV index tracking public record portals across law enforcement agencies.
+Our current primary task is to build, verify, and maintain the central CSV database of public records request portals, and collecting LE records via crowdsourced records requests.
 
 ### Primary File to Work On
 * `request-info.csv` — Central metadata index tracking agency portals.
