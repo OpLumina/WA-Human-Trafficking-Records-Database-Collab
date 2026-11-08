@@ -28,7 +28,7 @@ Our current primary task is to build, verify, and maintain the central CSV index
 
 ### Primary File to Work On
 
-* `public_records_portals.csv`
+* `request-info.csv`
 
 ### Required CSV Schema
 
