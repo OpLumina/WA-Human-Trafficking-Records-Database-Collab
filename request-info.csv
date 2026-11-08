@@ -1,247 +1,247 @@
 Agency Name,Agency State,Agency County,Agency City,Agency Request Portal,Request Type,Priority,Already Requested
 Adams County Sheriff's Office,WA,Adams,N/A,https://adamscountywa.nextrequest.com/,,HIGH,NO
-Othello Police Department,WA,Adams,Othello,policerecords@othellowa.gov,,,NO
-Ritzville Police Department,WA,Adams,Ritzville,karen.hickey@ritzville-wa.us,,,NO
+Othello Police Department,WA,Adams,Othello,policerecords@othellowa.gov,,LOW,NO
+Ritzville Police Department,WA,Adams,Ritzville,karen.hickey@ritzville-wa.us,,LOW,NO
 Asotin County Sheriff's Office,WA,Asotin,N/A,https://www.asotincountywa.gov/238/Records,,HIGH,NO
-Asotin Police Department,WA,Asotin,Asotin,https://cityofasotin.org/wp-content/uploads/2023/02/PUBLIC-RECORD-REQUEST-FORM-updated-2020.pdf,form,,NO
-Clarkston Police Department,WA,Asotin,Clarkston,https://clarkston-wa.com/departments/police-department/records/,,,NO
+Asotin Police Department,WA,Asotin,Asotin,https://cityofasotin.org/wp-content/uploads/2023/02/PUBLIC-RECORD-REQUEST-FORM-updated-2020.pdf,form,LOW,NO
+Clarkston Police Department,WA,Asotin,Clarkston,https://clarkston-wa.com/departments/police-department/records/,,MEDIUM,NO
 Benton County Sheriff's Office,WA,Benton,N/A,https://bcsobccd.nextrequest.com/,,HIGH,NO
-Kennewick Police Department,WA,Benton,Kennewick,https://kennewick.justfoia.com/publicportal,,,NO
-Prosser Police Department,WA,Benton,Prosser,https://cityofprosserwa.nextrequest.com/,,,NO
-Richland Police Department,WA,Benton,Richland,https://richlandwa.govqa.us/WEBAPP/_rs/SupportHome.aspx,,,NO
-West Richland Police Department,WA,Benton,West Richland,https://westrichlandwa.nextrequest.com/,,,NO
+Kennewick Police Department,WA,Benton,Kennewick,https://kennewick.justfoia.com/publicportal,,HIGH,NO
+Prosser Police Department,WA,Benton,Prosser,https://cityofprosserwa.nextrequest.com/,,LOW,NO
+Richland Police Department,WA,Benton,Richland,https://richlandwa.govqa.us/WEBAPP/_rs/SupportHome.aspx,,HIGH,NO
+West Richland Police Department,WA,Benton,West Richland,https://westrichlandwa.nextrequest.com/,,MEDIUM,NO
 Chelan County Sheriff's Office,WA,Chelan,N/A,sheriff.records@co.chelan.wa.us,Form to email,HIGH,NO
-Wenatchee Police Department,WA,Chelan,Wenatchee,https://www.wenatcheewa.gov/how-do-i/request-public-records,,,NO
+Wenatchee Police Department,WA,Chelan,Wenatchee,https://www.wenatcheewa.gov/how-do-i/request-public-records,,HIGH,NO
 Clallam County Sheriff's Office,WA,Clallam,N/A,https://www.clallamcountywa.gov/625/Records-Request,,HIGH,NO
-Forks Police Department,WA,Clallam,Forks,https://forkswashington.org/documents/public-records-request-form/,,HIGH,NO
+Forks Police Department,WA,Clallam,Forks,https://forkswashington.org/documents/public-records-request-form/,,LOW,NO
 Port Angeles Police Department,WA,Clallam,Port Angeles,https://www.cityofpa.us/825/Request-Police-Records,,HIGH,NO
-Sequim Police Department,WA,Clallam,Sequim,https://www.sequimwa.gov/823/Records,,,NO
+Sequim Police Department,WA,Clallam,Sequim,https://www.sequimwa.gov/823/Records,,LOW,NO
 Clark County Sheriff's Office,WA,Clark,N/A,https://clarkcountywa.mycusthelp.com/WEBAPP/_rs/SupportHome.aspx,,HIGH,NO
-Battle Ground Police Department,WA,Clark,Battle Ground,https://cityofbg.justfoia.com/publicportal/home/newrequest,,HIGH,NO
-Camas Police Department,WA,Clark,Camas,https://cityofcamas.justfoia.com/publicportal/home/newrequest,,,NO
-La Center Police Department,WA,Clark,La Center,https://ci.lacenter.wa.us/city-departments/administrative-services/public-records-requests/,,HIGH,NO
-Ridgefield Police Department,WA,Clark,Ridgefield,https://ridgefieldwa.nextrequest.com/,,,NO
-Vancouver Police Department,WA,Clark,Vancouver,https://vancouverwa.mycusthelp.com/WEBAPP/_rs/supporthome.aspx,,,YES
-Washougal Police Department,WA,Clark,Washougal,https://cityofwashougal.nextrequest.com/,,HIGH,NO
-WSU Vancouver Police Department,WA,Clark,Vancouver,https://wsu.nextrequest.com/,,,NO
+Battle Ground Police Department,WA,Clark,Battle Ground,https://cityofbg.justfoia.com/publicportal/home/newrequest,,MEDIUM,NO
+Camas Police Department,WA,Clark,Camas,https://cityofcamas.justfoia.com/publicportal/home/newrequest,,MEDIUM,NO
+La Center Police Department,WA,Clark,La Center,https://ci.lacenter.wa.us/city-departments/administrative-services/public-records-requests/,,LOW,NO
+Ridgefield Police Department,WA,Clark,Ridgefield,https://ridgefieldwa.nextrequest.com/,,LOW,NO
+Vancouver Police Department,WA,Clark,Vancouver,https://vancouverwa.mycusthelp.com/WEBAPP/_rs/supporthome.aspx,,HIGH,YES
+Washougal Police Department,WA,Clark,Washougal,https://cityofwashougal.nextrequest.com/,,LOW,NO
+WSU Vancouver Police Department,WA,Clark,Vancouver,https://wsu.nextrequest.com/,,LOW,NO
 Columbia County Sheriff's Office,WA,Columbia,N/A,https://columbiacountywa.mycusthelp.com/webapp/_rs/supporthome.aspx,,HIGH,NO
 Cowlitz County Sheriff's Office,WA,Cowlitz,N/A,https://cowlitzcountysheriff.justfoia.com/publicportal/home/newrequest,,HIGH,NO
-Castle Rock Police Department,WA,Cowlitz,Castle Rock,https://crpolice.org/Forms/public_disclosure_request.pdf,,,NO
-Kalama Police Department,WA,Cowlitz,Kalama,https://kalamawa.justfoia.com/publicportal/home/track,,,NO
-Kelso Police Department,WA,Cowlitz,Kelso,https://www.kelso.gov/506/Public-Disclosure-Request,,,NO
+Castle Rock Police Department,WA,Cowlitz,Castle Rock,https://crpolice.org/Forms/public_disclosure_request.pdf,,LOW,NO
+Kalama Police Department,WA,Cowlitz,Kalama,https://kalamawa.justfoia.com/publicportal/home/track,,LOW,NO
+Kelso Police Department,WA,Cowlitz,Kelso,https://www.kelso.gov/506/Public-Disclosure-Request,,MEDIUM,NO
 Longview Police Department,WA,Cowlitz,Longview,https://longviewwa.mycusthelp.com/WEBAPP/supporthome.aspx,,HIGH,NO
-Woodland Police Department,WA,Cowlitz,Woodland,https://woodland.civicweb.net/Items/Item/public.aspx?Id=230265,,,NO
+Woodland Police Department,WA,Cowlitz,Woodland,https://woodland.civicweb.net/Items/Item/public.aspx?Id=230265,,LOW,NO
 Douglas County Sheriff's Office,WA,Douglas,N/A,https://douglascountywa.govqa.us/WEBAPP/_rs/supporthome.aspx,,HIGH,NO
-East Wenatchee Police Department,WA,Douglas,East Wenatchee,https://eastwenatcheewa.govqa.us/WEBAPP/_rs/supporthome.aspx,,,NO
+East Wenatchee Police Department,WA,Douglas,East Wenatchee,https://eastwenatcheewa.govqa.us/WEBAPP/_rs/supporthome.aspx,,MEDIUM,NO
 Ferry County Sheriff's Office,WA,Ferry,N/A,https://ferrycountywa.govqa.us/WEBAPP/_rs/,,HIGH,NO
-Republic Police Department,WA,Ferry,Republic,https://www.cityofrepublic.org/public-records,,,NO
-Connell Police Department,WA,Franklin,Connell,PENDING-RESPONSE,,,NO
+Republic Police Department,WA,Ferry,Republic,https://www.cityofrepublic.org/public-records,,LOW,NO
+Connell Police Department,WA,Franklin,Connell,PENDING-RESPONSE,,LOW,NO
 Franklin County Sheriff's Office,WA,Franklin,N/A,https://franklincountywa.mycusthelp.com/WEBAPP/_rs/,,HIGH,NO
-Pasco Police Department,WA,Franklin,Pasco,https://www.pasco-wa.gov/396/Police-Report-Request,,,NO
+Pasco Police Department,WA,Franklin,Pasco,https://www.pasco-wa.gov/396/Police-Report-Request,,HIGH,NO
 Port of Pasco Police Department,WA,Franklin,Pasco,https://www.portofpasco.org/public-information-request,,HIGH,NO
 Garfield County Sheriff's Office,WA,Garfield,N/A,https://www.garfieldcountywa.gov/sheriff/page/public-disclosure-request,,HIGH,NO
 Grant County Sheriff's Office,WA,Grant,N/A,https://grantcountywa.mycusthelp.com/WEBAPP/_rs/,,HIGH,NO
-Coulee City Police Department,WA,Grant,Coulee City,https://gccitywa.org/wp-content/uploads/2026/03/Police-Report-Request-Form.pdf,,,NO
-Ephrata Police Department,WA,Grant,Ephrata,https://www.ephrata.org/220/Request-Police-Records,,,NO
-Grand Coulee Police Department,WA,Grant,Grand Coulee,https://gccitywa.org/documents/police-report-request-form/,,,NO
-Mattawa Police Department,WA,Grant,Mattawa,https://police.cityofmattawa.com/PublicRecordsRequest,,,NO
-Moses Lake Police Department,WA,Grant,Moses Lake,https://www.cityofml.com/331/Public-Records-Request,,,NO
-Quincy Police Department,WA,Grant,Quincy,https://www.quincywashington.us/207/Public-Records-Request,,,NO
-Royal City Police Department,WA,Grant,Royal City,PENDING-RESPONSE,,,NO
-Soap Lake Police Department,WA,Grant,Soap Lake,https://www.soaplakewa.gov/public-records-request,,,NO
-Warden Police Department,WA,Grant,Warden,https://cityofwarden.org/public-information-request,,,NO
+Coulee City Police Department,WA,Grant,Coulee City,https://gccitywa.org/wp-content/uploads/2026/03/Police-Report-Request-Form.pdf,,LOW,NO
+Ephrata Police Department,WA,Grant,Ephrata,https://www.ephrata.org/220/Request-Police-Records,,LOW,NO
+Grand Coulee Police Department,WA,Grant,Grand Coulee,https://gccitywa.org/documents/police-report-request-form/,,LOW,NO
+Mattawa Police Department,WA,Grant,Mattawa,https://police.cityofmattawa.com/PublicRecordsRequest,,LOW,NO
+Moses Lake Police Department,WA,Grant,Moses Lake,https://www.cityofml.com/331/Public-Records-Request,,HIGH,NO
+Quincy Police Department,WA,Grant,Quincy,https://www.quincywashington.us/207/Public-Records-Request,,LOW,NO
+Royal City Police Department,WA,Grant,Royal City,PENDING-RESPONSE,,LOW,NO
+Soap Lake Police Department,WA,Grant,Soap Lake,https://www.soaplakewa.gov/public-records-request,,LOW,NO
+Warden Police Department,WA,Grant,Warden,https://cityofwarden.org/public-information-request,,LOW,NO
 Grays Harbor County Sheriff's Office,WA,Grays Harbor,N/A,https://www.graysharbor.us/departments/public_records/index.php,,HIGH,NO
-Aberdeen Police Department,WA,Grays Harbor,Aberdeen,https://www.aberdeenwa.gov/291/Public-Records-Request,,,NO
-Cosmopolis Police Department,WA,Grays Harbor,Cosmopolis,CONTRACTS WITH ABERDEEN,,,NO
-Elma Police Department,WA,Grays Harbor,Elma,FORM – Downloaded,,,NO
-Hoquiam Police Department,WA,Grays Harbor,Hoquiam,https://cityofhoquiamwa.nextrequest.com/,,,NO
-McCleary Police Department,WA,Grays Harbor,McCleary,https://www.cityofmccleary.com/police/page/police-public-records-request-form,,,NO
-Montesano Police Department,WA,Grays Harbor,Montesano,FORM – Downloaded,,,NO
-Ocean Shores Police Department,WA,Grays Harbor,Ocean Shores,https://cityofoceanshoreswa.nextrequest.com/,,,NO
-Westport Police Department,WA,Grays Harbor,Westport,FORM – Downloaded,,,NO
+Aberdeen Police Department,WA,Grays Harbor,Aberdeen,https://www.aberdeenwa.gov/291/Public-Records-Request,,HIGH,NO
+Cosmopolis Police Department,WA,Grays Harbor,Cosmopolis,CONTRACTS WITH ABERDEEN,,LOW,NO
+Elma Police Department,WA,Grays Harbor,Elma,FORM – Downloaded,,LOW,NO
+Hoquiam Police Department,WA,Grays Harbor,Hoquiam,https://cityofhoquiamwa.nextrequest.com/,,MEDIUM,NO
+McCleary Police Department,WA,Grays Harbor,McCleary,https://www.cityofmccleary.com/police/page/police-public-records-request-form,,LOW,NO
+Montesano Police Department,WA,Grays Harbor,Montesano,FORM – Downloaded,,LOW,NO
+Ocean Shores Police Department,WA,Grays Harbor,Ocean Shores,https://cityofoceanshoreswa.nextrequest.com/,,MEDIUM,NO
+Westport Police Department,WA,Grays Harbor,Westport,FORM – Downloaded,,LOW,NO
 Island County Sheriff's Office,WA,Island,N/A,https://www.islandcountywa.gov/618/Public-Records,,HIGH,NO
-Coupeville Marshal's Office,WA,Island,Coupeville,PENDING-RESPONSE,,,NO
-Langley Police Department,WA,Island,Langley,https://www.langleywa.org/departments/administration/public_records_request.php,,,NO
-Oak Harbor Police Department,WA,Island,Oak Harbor,https://www.oakharbor.gov/623/Public-Records-Request,,,NO
+Coupeville Marshal's Office,WA,Island,Coupeville,PENDING-RESPONSE,,LOW,NO
+Langley Police Department,WA,Island,Langley,https://www.langleywa.org/departments/administration/public_records_request.php,,LOW,NO
+Oak Harbor Police Department,WA,Island,Oak Harbor,https://www.oakharbor.gov/623/Public-Records-Request,,MEDIUM,NO
 Jefferson County Sheriff's Office,WA,Jefferson,N/A,https://www.co.jefferson.wa.us/1078/Public-Records,,HIGH,NO
-Port Townsend Police Department,WA,Jefferson,Port Townsend,https://cityofporttownsendwa.nextrequest.com/requests/new,,HIGH,NO
+Port Townsend Police Department,WA,Jefferson,Port Townsend,https://cityofporttownsendwa.nextrequest.com/requests/new,,MEDIUM,NO
 King County Sheriff's Office,WA,King,N/A,https://kingcounty.gov/en/dept/executive-services/about-king-county/business-operations/risk-management-services/public-records-program,,HIGH,NO
-Algona Police Department,WA,King,Algona,https://www.algonawa.gov/services/police/public_disclosure_request/index.php,,,NO
-Auburn Police Department,WA,King,Auburn,https://www.auburnwa.gov/city_hall/legal_city_clerks/public_records_request,,,NO
+Algona Police Department,WA,King,Algona,https://www.algonawa.gov/services/police/public_disclosure_request/index.php,,LOW,NO
+Auburn Police Department,WA,King,Auburn,https://www.auburnwa.gov/city_hall/legal_city_clerks/public_records_request,,HIGH,NO
 Bellevue Police Department,WA,King,Bellevue,https://bellevuewa.gov/city-government/departments/police/about-police/public-records,,HIGH,NO
-Black Diamond Police Department,WA,King,Black Diamond,https://blackdiamondwa.gov/1522/Records-and-Evidence,,,NO
-Bothell Police Department,WA,King,Bothell,https://www.bothellwa.gov/373/Police-Records-Requests,,,NO
-Burien Police Services,WA,King,Burien,https://www.burienwa.gov/city_hall/laws_regulations/public_record_request,,,NO
-Duvall Police Department,WA,King,Duvall,https://www.duvallwa.gov/315/Request-Public-Records,,,NO
-Carnation Police Department,WA,King,Carnation,https://www.carnationwa.gov/requests/,,,NO
-Clyde Hill Police Department,WA,King,Clyde Hill,https://clydehill.org/government/departments/police/police_emergency_services/police_records_request.php,,,NO
-Covington Police Department,WA,King,Covington,https://www.covingtonwa.gov/city_departments/executive/cityclerk/publicrecordsrequests.php,,,NO
+Black Diamond Police Department,WA,King,Black Diamond,https://blackdiamondwa.gov/1522/Records-and-Evidence,,LOW,NO
+Bothell Police Department,WA,King,Bothell,https://www.bothellwa.gov/373/Police-Records-Requests,,MEDIUM,NO
+Burien Police Services,WA,King,Burien,https://www.burienwa.gov/city_hall/laws_regulations/public_record_request,,HIGH,NO
+Duvall Police Department,WA,King,Duvall,https://www.duvallwa.gov/315/Request-Public-Records,,LOW,NO
+Carnation Police Department,WA,King,Carnation,https://www.carnationwa.gov/requests/,,LOW,NO
+Clyde Hill Police Department,WA,King,Clyde Hill,https://clydehill.org/government/departments/police/police_emergency_services/police_records_request.php,,LOW,NO
+Covington Police Department,WA,King,Covington,https://www.covingtonwa.gov/city_departments/executive/cityclerk/publicrecordsrequests.php,,MEDIUM,NO
 Des Moines Police Department,WA,King,Des Moines,https://www.desmoineswa.gov/436/Request-Information-from-Des-Moines-Poli,,HIGH,NO
-Enumclaw Police Department,WA,King,Enumclaw,https://www.cityofenumclaw.net/555/Records-Requests,,,NO
+Enumclaw Police Department,WA,King,Enumclaw,https://www.cityofenumclaw.net/555/Records-Requests,,LOW,NO
 Federal Way Police Department,WA,King,Federal Way,https://federalway.justfoia.com/publicportal,,HIGH,NO
-Issaquah Police Department,WA,King,Issaquah,https://www.issaquahwa.gov/3371/Records-Requests,,,NO
-Kenmore Police Department,WA,King,Kenmore,https://www.kenmorewa.gov/government/public-records-request,,,NO
-Kent Police Department,WA,King,Kent,https://cityofkent.mycusthelp.com/WEBAPP/_rs/,,,NO
-Kirkland Police Department,WA,King,Kirkland,https://www.kirklandwa.gov/Government/Departments/Police-Department/Community-Resources/Police-Public-Disclosure,,,NO
-Lake Forest Park Police Department,WA,King,Lake Forest Park,https://www.cityoflfp.gov/430/Public-Disclosure-Requests,,,NO
-Maple Valley Police Department,WA,King,Maple Valley,King County Sheriff’s Office,,HIGH,NO
-Medina Police Department,WA,King,Medina,https://www.medina-wa.gov/police/page/records-requests-police-department,,,NO
-Mercer Island Police Department,WA,King,Mercer Island,https://www.mercerisland.gov/police/page/police-records,,,NO
-Newcastle Police Department,WA,King,Newcastle,King County Sheriff’s Office,,HIGH,NO
-Normandy Park Police Department,WA,King,Normandy Park,https://normandyparkwa.gov/organizer/police-records-services/,,,NO
-North Bend Police Department,WA,King,North Bend,King County Sheriff’s Office,,HIGH,NO
-Pacific Police Department,WA,King,Pacific,https://www.pacificwa.gov/services/city_clerk_personnel/public_records_requests.php,,,NO
+Issaquah Police Department,WA,King,Issaquah,https://www.issaquahwa.gov/3371/Records-Requests,,MEDIUM,NO
+Kenmore Police Department,WA,King,Kenmore,https://www.kenmorewa.gov/government/public-records-request,,MEDIUM,NO
+Kent Police Department,WA,King,Kent,https://cityofkent.mycusthelp.com/WEBAPP/_rs/,,HIGH,NO
+Kirkland Police Department,WA,King,Kirkland,https://www.kirklandwa.gov/Government/Departments/Police-Department/Community-Resources/Police-Public-Disclosure,,HIGH,NO
+Lake Forest Park Police Department,WA,King,Lake Forest Park,https://www.cityoflfp.gov/430/Public-Disclosure-Requests,,LOW,NO
+Maple Valley Police Department,WA,King,Maple Valley,King County Sheriff’s Office,,MEDIUM,NO
+Medina Police Department,WA,King,Medina,https://www.medina-wa.gov/police/page/records-requests-police-department,,LOW,NO
+Mercer Island Police Department,WA,King,Mercer Island,https://www.mercerisland.gov/police/page/police-records,,MEDIUM,NO
+Newcastle Police Department,WA,King,Newcastle,King County Sheriff’s Office,,LOW,NO
+Normandy Park Police Department,WA,King,Normandy Park,https://normandyparkwa.gov/organizer/police-records-services/,,LOW,NO
+North Bend Police Department,WA,King,North Bend,King County Sheriff’s Office,,MEDIUM,NO
+Pacific Police Department,WA,King,Pacific,https://www.pacificwa.gov/services/city_clerk_personnel/public_records_requests.php,,LOW,NO
 Port of Seattle Police Department,WA,King,Seattle,https://www.portseattle.org/actions/port-police-public-records-requests,,HIGH,NO
-Redmond Police Department,WA,King,Redmond,https://redmondwa.govqa.us/webapp/_rs/,,,NO
-Renton Police Department,WA,King,Renton,https://www.rentonwa.gov/City-Services/Records/Public-Records-Request,,,NO
-Sammamish Police Department,WA,King,Sammamish,King County Sheriff’s Office,,HIGH,NO
-Seattle Police Department,WA,King,Seattle,https://www.seattle.gov/police/information-and-data/public-disclosure-requests/records-request-center,,,YES
+Redmond Police Department,WA,King,Redmond,https://redmondwa.govqa.us/webapp/_rs/,,HIGH,NO
+Renton Police Department,WA,King,Renton,https://www.rentonwa.gov/City-Services/Records/Public-Records-Request,,HIGH,NO
+Sammamish Police Department,WA,King,Sammamish,King County Sheriff’s Office,,MEDIUM,NO
+Seattle Police Department,WA,King,Seattle,https://www.seattle.gov/police/information-and-data/public-disclosure-requests/records-request-center,,HIGH,YES
 Shoreline Police Department,WA,King,Shoreline,King County Sheriff’s Office,,HIGH,NO
-Skykomish Police Department,WA,King,Skykomish,King County Sheriff’s Office,,,NO
-Snoqualmie Police Department,WA,King,Snoqualmie,https://www.snoqualmiewa.gov/505/Public-Records-Request,,,NO
-Tukwila Police Department,WA,King,Tukwila,https://tukwilawapd.mycusthelp.com/WEBAPP/_rs/,,,NO
-University of WA Police Department,WA,King,Seattle,https://www.washington.edu/publicrecords/,,,NO
-Woodinville Police Department,WA,King,Woodinville,King County Sheriff’s Office,,HIGH,NO
+Skykomish Police Department,WA,King,Skykomish,King County Sheriff’s Office,,LOW,NO
+Snoqualmie Police Department,WA,King,Snoqualmie,https://www.snoqualmiewa.gov/505/Public-Records-Request,,LOW,NO
+Tukwila Police Department,WA,King,Tukwila,https://tukwilawapd.mycusthelp.com/WEBAPP/_rs/,,HIGH,NO
+University of WA Police Department,WA,King,Seattle,https://www.washington.edu/publicrecords/,,MEDIUM,NO
+Woodinville Police Department,WA,King,Woodinville,King County Sheriff’s Office,,MEDIUM,NO
 Kitsap County Sheriff's Office,WA,Kitsap,N/A,https://www.kitsap.gov/das/Pages/public-records.aspx,,HIGH,NO
-Bainbridge Island Police Department,WA,Kitsap,Bainbridge Island,https://bainbridgewa.nextrequest.com,,,NO
-Bremerton Police Department,WA,Kitsap,Bremerton,https://bremertonwa.govqa.us/WEBAPP/_rs/,,,NO
-Port Orchard Police Department,WA,Kitsap,Port Orchard,https://cityofportorchardwa.nextrequest.com/,,,NO
-Poulsbo Police Department,WA,Kitsap,Poulsbo,https://poulsbo.nextrequest.com/requests/new?dept_id=1104,,,NO
+Bainbridge Island Police Department,WA,Kitsap,Bainbridge Island,https://bainbridgewa.nextrequest.com,,LOW,NO
+Bremerton Police Department,WA,Kitsap,Bremerton,https://bremertonwa.govqa.us/WEBAPP/_rs/,,HIGH,NO
+Port Orchard Police Department,WA,Kitsap,Port Orchard,https://cityofportorchardwa.nextrequest.com/,,LOW,NO
+Poulsbo Police Department,WA,Kitsap,Poulsbo,https://poulsbo.nextrequest.com/requests/new?dept_id=1104,,LOW,NO
 Kittitas County Sheriff's Office,WA,Kittitas,N/A,https://kittitascountywa.govqa.us/WEBAPP/_rs/,,HIGH,NO
-Central WA University Police Department,WA,Kittitas,Ellensburg,https://www.cwu.edu/about/offices/business-services/public-records.php,,,NO
-Cle Elum/Roslyn Police Department,WA,Kittitas,Cle Elum/Roslyn,https://cleelum.nextrequest.com/,,,NO
-Ellensburg Police Department,WA,Kittitas,Ellensburg,https://www.ellensburgwa.gov/785/Records-Division,,,NO
-Kittitas Police Department,WA,Kittitas,Kittitas,https://www.co.kittitas.wa.us/sheriff/records.aspx,,HIGH,NO
+Central WA University Police Department,WA,Kittitas,Ellensburg,https://www.cwu.edu/about/offices/business-services/public-records.php,,LOW,NO
+Cle Elum/Roslyn Police Department,WA,Kittitas,Cle Elum/Roslyn,https://cleelum.nextrequest.com/,,LOW,NO
+Ellensburg Police Department,WA,Kittitas,Ellensburg,https://www.ellensburgwa.gov/785/Records-Division,,MEDIUM,NO
+Kittitas Police Department,WA,Kittitas,Kittitas,https://www.co.kittitas.wa.us/sheriff/records.aspx,,LOW,NO
 Klickitat County Sheriff's Office,WA,Klickitat,N/A,https://www.klickitatcounty.gov/1367/Records-Request---All-Divisions,,HIGH,NO
-Bingen/White Salmon Police Department,WA,Klickitat,Bingen/White Salmon,FORM – Downloaded,,,NO
-Goldendale Police Department,WA,Klickitat,Goldendale,https://cityofgoldendalewapd.nextrequest.com/,,,NO
+Bingen/White Salmon Police Department,WA,Klickitat,Bingen/White Salmon,FORM – Downloaded,,LOW,NO
+Goldendale Police Department,WA,Klickitat,Goldendale,https://cityofgoldendalewapd.nextrequest.com/,,LOW,NO
 Lewis County Sheriff's Office,WA,Lewis,N/A,https://lewiscountywa.gov/offices/sheriff/special-services-bureau/records-requests/,,HIGH,NO
-Centralia Police Department,WA,Lewis,Centralia,https://www.cityofcentralia.com/299/Public-Disclosure-Requests,,,NO
-Chehalis Police Department,WA,Lewis,Chehalis,https://www.ci.chehalis.wa.us/police/page/police-records-request,,,NO
-Morton Police Department,WA,Lewis,Morton,PENDING-RESPONSE,,HIGH,NO
-Mossyrock Police Department,WA,Lewis,Mossyrock,Lewis County Public Records requests,,,NO
-Napavine Police Department,WA,Lewis,Napavine,https://www.cityofnapavine.com/1219/Public-Records,,,NO
-Pe Ell Police Department,WA,Lewis,Pe Ell,Lewis County Public Records requests,,,NO
-Toledo Police Department,WA,Lewis,Toledo,https://www.toledowa.us/1384/Public-Records-Request,,,NO
-Vader Police Department,WA,Lewis,Vader,UNKNOWN,,,NO
-Winlock Police Department,WA,Lewis,Winlock,FORM – Downloaded,,,NO
+Centralia Police Department,WA,Lewis,Centralia,https://www.cityofcentralia.com/299/Public-Disclosure-Requests,,MEDIUM,NO
+Chehalis Police Department,WA,Lewis,Chehalis,https://www.ci.chehalis.wa.us/police/page/police-records-request,,MEDIUM,NO
+Morton Police Department,WA,Lewis,Morton,PENDING-RESPONSE,,LOW,NO
+Mossyrock Police Department,WA,Lewis,Mossyrock,Lewis County Public Records requests,,LOW,NO
+Napavine Police Department,WA,Lewis,Napavine,https://www.cityofnapavine.com/1219/Public-Records,,LOW,NO
+Pe Ell Police Department,WA,Lewis,Pe Ell,Lewis County Public Records requests,,LOW,NO
+Toledo Police Department,WA,Lewis,Toledo,https://www.toledowa.us/1384/Public-Records-Request,,LOW,NO
+Vader Police Department,WA,Lewis,Vader,UNKNOWN,,LOW,NO
+Winlock Police Department,WA,Lewis,Winlock,FORM – Downloaded,,LOW,NO
 Lincoln County Sheriff's Office,WA,Lincoln,N/A,https://www.co.lincoln.wa.us/164/Public-Records,,HIGH,NO
-Odessa Police Department,WA,Lincoln,Odessa,UNKNOWN,,,NO
-Reardan Police Department,WA,Lincoln,Reardan,FORM – Downloaded,,,NO
-Wilbur Police Department,WA,Lincoln,Wilbur,https://www.wilburwa.gov/FormCenter/Public-Records-6,,,NO
+Odessa Police Department,WA,Lincoln,Odessa,UNKNOWN,,LOW,NO
+Reardan Police Department,WA,Lincoln,Reardan,FORM – Downloaded,,LOW,NO
+Wilbur Police Department,WA,Lincoln,Wilbur,https://www.wilburwa.gov/FormCenter/Public-Records-6,,LOW,NO
 Mason County Sheriff's Office,WA,Mason,N/A,https://masoncountywa.govqa.us/WEBAPP/_rs/,,HIGH,NO
-Shelton Police Department,WA,Mason,Shelton,https://www.sheltonwa.gov/government/city_manager/city_clerk/public_records.php,,,NO
+Shelton Police Department,WA,Mason,Shelton,https://www.sheltonwa.gov/government/city_manager/city_clerk/public_records.php,,MEDIUM,NO
 Okanogan County Sheriff's Office,WA,Okanogan,N/A,https://okanogancountywa.nextrequest.com/,,HIGH,NO
-Brewster Police Department,WA,Okanogan,Brewster,SEE ReadMe NOTES,,,NO
-Coulee Dam Police Department,WA,Okanogan,Coulee Dam,https://townofcouleedam.org/records,,,NO
-Elmer City Police Department,WA,Okanogan,Elmer City,https://townofelmercity.com/,,,NO
-Omak Police Department,WA,Okanogan,Omak,https://cityofomakwa.nextrequest.com/,,,NO
-Oroville Police Department,WA,Okanogan,Oroville,https://oroville-wa.com/wp-content/uploads/request_for_public_records.pdf,,,NO
-Tonasket Police Department,WA,Okanogan,Tonasket,SEE ReadMe NOTES,,,NO
-Twisp Police Department,WA,Okanogan,Twisp,https://townoftwisp.com/2026%20Public%20Records%20Request%20-%20PD.pdf,,,NO
-Winthrop Marshal's Office,WA,Okanogan,Winthrop,SEE ReadMe NOTES,,,NO
+Brewster Police Department,WA,Okanogan,Brewster,SEE ReadMe NOTES,,LOW,NO
+Coulee Dam Police Department,WA,Okanogan,Coulee Dam,https://townofcouleedam.org/records,,LOW,NO
+Elmer City Police Department,WA,Okanogan,Elmer City,https://townofelmercity.com/,,LOW,NO
+Omak Police Department,WA,Okanogan,Omak,https://cityofomakwa.nextrequest.com/,,LOW,NO
+Oroville Police Department,WA,Okanogan,Oroville,https://oroville-wa.com/wp-content/uploads/request_for_public_records.pdf,,LOW,NO
+Tonasket Police Department,WA,Okanogan,Tonasket,SEE ReadMe NOTES,,LOW,NO
+Twisp Police Department,WA,Okanogan,Twisp,https://townoftwisp.com/2026%20Public%20Records%20Request%20-%20PD.pdf,,LOW,NO
+Winthrop Marshal's Office,WA,Okanogan,Winthrop,SEE ReadMe NOTES,,LOW,NO
 Pacific County Sheriff's Office,WA,Pacific,N/A,https://pacificcountywa.mycusthelp.com/WEBAPP/_rs/supporthome.aspx,,HIGH,NO
-Long Beach Police Department,WA,Pacific,Long Beach,https://www.longbeachwa.gov/media/156,,,NO
-Raymond Police Department,WA,Pacific,Raymond,https://cityofraymondwa.nextrequest.com/,,,NO
-South Bend Police Department,WA,Pacific,South Bend,https://cityofsouthbendwa.nextrequest.com/requests,,,NO
+Long Beach Police Department,WA,Pacific,Long Beach,https://www.longbeachwa.gov/media/156,,LOW,NO
+Raymond Police Department,WA,Pacific,Raymond,https://cityofraymondwa.nextrequest.com/,,LOW,NO
+South Bend Police Department,WA,Pacific,South Bend,https://cityofsouthbendwa.nextrequest.com/requests,,LOW,NO
 Pend Oreille County Sheriff's Office,WA,Pend Oreille,N/A,https://www.pendoreille.gov/public-records-request,,HIGH,NO
-Kalispel Tribal Police Department,WA,Pend Oreille,Usk,TRIBAL – Request Directly,,,NO
+Kalispel Tribal Police Department,WA,Pend Oreille,Usk,TRIBAL – Request Directly,,MEDIUM,NO
 Pierce County Sheriff's Department,WA,Pierce,N/A,https://www.piercecountywa.gov/5243/Public-Records-Request,,HIGH,NO
-Bonney Lake Police Department,WA,Pierce,Bonney Lake,https://www.bonneylake.gov/377/Public-Records-Disclosure-Requests,,,NO
-Buckley Police Department,WA,Pierce,Buckley,https://www.cityofbuckley.com/303/Police-Records-Requests,,,NO
-DuPont Police Department,WA,Pierce,DuPont,https://southsound911.org/public-records-requests/ & FORM,,,NO
-Eatonville Police Department,WA,Pierce,Eatonville,FORM – Downloaded,,,NO
-Edgewood Police Department,WA,Pierce,Edgewood,https://www.edgewoodwa.gov/154/Public-Records-Request,,,NO
-Fife Police Department,WA,Pierce,Fife,https://www.fifewa.gov/538/Request-Police-Records,,,NO
-Fircrest Police Department,WA,Pierce,Fircrest,https://www.cityoffircrest.net/government/administration/public-records-disclosure-request/,,,NO
-Gig Harbor Police Department,WA,Pierce,Gig Harbor,https://www.gigharborwa.gov/m/faq?cat=30,,,NO
-Lakewood Police Department,WA,Pierce,Lakewood,https://cityoflakewood.us/legal/public-disclosure-requests/,,,NO
-Milton Police Department,WA,Pierce,Milton,https://www.miltonwa.gov/153/Administration,,,NO
-Orting Police Department,WA,Pierce,Orting,https://cityofortingwa.nextrequest.com/,,,NO
+Bonney Lake Police Department,WA,Pierce,Bonney Lake,https://www.bonneylake.gov/377/Public-Records-Disclosure-Requests,,MEDIUM,NO
+Buckley Police Department,WA,Pierce,Buckley,https://www.cityofbuckley.com/303/Police-Records-Requests,,LOW,NO
+DuPont Police Department,WA,Pierce,DuPont,https://southsound911.org/public-records-requests/ & FORM,,LOW,NO
+Eatonville Police Department,WA,Pierce,Eatonville,FORM – Downloaded,,LOW,NO
+Edgewood Police Department,WA,Pierce,Edgewood,https://www.edgewoodwa.gov/154/Public-Records-Request,,LOW,NO
+Fife Police Department,WA,Pierce,Fife,https://www.fifewa.gov/538/Request-Police-Records,,HIGH,NO
+Fircrest Police Department,WA,Pierce,Fircrest,https://www.cityoffircrest.net/government/administration/public-records-disclosure-request/,,LOW,NO
+Gig Harbor Police Department,WA,Pierce,Gig Harbor,https://www.gigharborwa.gov/m/faq?cat=30,,LOW,NO
+Lakewood Police Department,WA,Pierce,Lakewood,https://cityoflakewood.us/legal/public-disclosure-requests/,,HIGH,NO
+Milton Police Department,WA,Pierce,Milton,https://www.miltonwa.gov/153/Administration,,LOW,NO
+Orting Police Department,WA,Pierce,Orting,https://cityofortingwa.nextrequest.com/,,LOW,NO
 Port of Tacoma Police Department,WA,Pierce,Tacoma,https://portoftacoma.nextrequest.com/,,HIGH,NO
-Puyallup Police Department,WA,Pierce,Puyallup,https://www.puyallupwa.gov/306/Records-Support-Services,,,NO
-Roy Police Department,WA,Pierce,Roy,SOUTH SOUND 911,,,NO
-Ruston Police Department,WA,Pierce,Ruston,https://rustonwa.nextrequest.com/,,,NO
-Steilacoom Department of Public Safety,WA,Pierce,Steilacoom,SOUTH SOUND 911,,,NO
-Sumner Police Department,WA,Pierce,Sumner,https://sumnerwa.nextrequest.com/,,,NO
-Tacoma Police Department,WA,Pierce,Tacoma,SOUTH SOUND 911,,,NO
-University Place Police Department,WA,Pierce,University Place,SOUTH SOUND 911,,,NO
-Wilkeson Marshal's Office,WA,Pierce,Wilkeson,https://cityofbuckley.com/232/Public-Records-Requests,,,NO
+Puyallup Police Department,WA,Pierce,Puyallup,https://www.puyallupwa.gov/306/Records-Support-Services,,MEDIUM,NO
+Roy Police Department,WA,Pierce,Roy,SOUTH SOUND 911,,LOW,NO
+Ruston Police Department,WA,Pierce,Ruston,https://rustonwa.nextrequest.com/,,LOW,NO
+Steilacoom Department of Public Safety,WA,Pierce,Steilacoom,SOUTH SOUND 911,,LOW,NO
+Sumner Police Department,WA,Pierce,Sumner,https://sumnerwa.nextrequest.com/,,MEDIUM,NO
+Tacoma Police Department,WA,Pierce,Tacoma,SOUTH SOUND 911,,HIGH,NO
+University Place Police Department,WA,Pierce,University Place,SOUTH SOUND 911,,MEDIUM,NO
+Wilkeson Marshal's Office,WA,Pierce,Wilkeson,https://cityofbuckley.com/232/Public-Records-Requests,,LOW,NO
 San Juan County Sheriff's Office,WA,San Juan,N/A,https://www.sanjuancountywa.gov/349/Public-Records,,HIGH,NO
 Skagit County Sheriff's Office,WA,Skagit,N/A,https://skagitcountywa.nextrequest.com/,,HIGH,NO
-Anacortes Police Department,WA,Skagit,Anacortes,https://www.anacorteswa.gov/FormCenter/Police-5/Police-Records-Request-80,,,NO
+Anacortes Police Department,WA,Skagit,Anacortes,https://www.anacorteswa.gov/FormCenter/Police-5/Police-Records-Request-80,,MEDIUM,NO
 Burlington Police Department,WA,Skagit,Burlington,https://burlingtonwa.gov/690/Public-Records-Requests,,MEDIUM,NO
-Mount Vernon Police Department,WA,Skagit,Mount Vernon,https://mountvernonwa.gov/m/faq,,,NO
-Sedro-Woolley Police Department,WA,Skagit,Sedro-Woolley,https://www.sedro-woolley.gov/departments/police/faqs.php,,,NO
-Swinomish Police Department,WA,Skagit,La Conner,https://www.swinomish-nsn.gov/public-safety/page/police,,,NO
-Skamania County Sheriff's Office,WA,Skamania,N/A,https://skamaniacountywa.govqa.us/WEBAPP/_rs/,,MEDIUM,NO
+Mount Vernon Police Department,WA,Skagit,Mount Vernon,https://mountvernonwa.gov/m/faq,,HIGH,NO
+Sedro-Woolley Police Department,WA,Skagit,Sedro-Woolley,https://www.sedro-woolley.gov/departments/police/faqs.php,,LOW,NO
+Swinomish Police Department,WA,Skagit,La Conner,https://www.swinomish-nsn.gov/public-safety/page/police,,MEDIUM,NO
+Skamania County Sheriff's Office,WA,Skamania,N/A,https://skamaniacountywa.govqa.us/WEBAPP/_rs/,,LOW,NO
 Snohomish County Sheriff's Office,WA,Snohomish,N/A,https://snohomishcountywa.gov/342/Sheriff-Public-Records,,HIGH,NO
-Arlington Police Department,WA,Snohomish,Arlington,https://arlingtonwa.gov/919/Public-Records-Request,,,NO
-Brier Police Department,WA,Snohomish,Brier,http://www.ci.brier.wa.us/,,,NO
-Edmonds Police Department,WA,Snohomish,Edmonds,https://www.edmondswa.gov/government/departments/finance/request_for_public_records,,,NO
+Arlington Police Department,WA,Snohomish,Arlington,https://arlingtonwa.gov/919/Public-Records-Request,,MEDIUM,NO
+Brier Police Department,WA,Snohomish,Brier,http://www.ci.brier.wa.us/,,LOW,NO
+Edmonds Police Department,WA,Snohomish,Edmonds,https://www.edmondswa.gov/government/departments/finance/request_for_public_records,,MEDIUM,NO
 Everett Police Department,WA,Snohomish,Everett,https://www.everettwa.gov/m/faq?cat=61,,HIGH,NO
-Granite Falls Police Department,WA,Snohomish,Granite Falls,https://snohomishcountywa.gov/342/Sheriff-Public-Records,,HIGH,NO
-Lake Stevens Police Department,WA,Snohomish,Lake Stevens,https://www.lakestevenswa.gov/93/Public-Records-Request,,,NO
+Granite Falls Police Department,WA,Snohomish,Granite Falls,https://snohomishcountywa.gov/342/Sheriff-Public-Records,,LOW,NO
+Lake Stevens Police Department,WA,Snohomish,Lake Stevens,https://www.lakestevenswa.gov/93/Public-Records-Request,,MEDIUM,NO
 Lynnwood Police Department,WA,Snohomish,Lynnwood,https://www.lynnwoodwa.gov/Government/Departments/Police-Department/Police-Services/Police-Report-and-Record-Request,,HIGH,NO
-Marysville Police Department,WA,Snohomish,Marysville,https://www.marysvillewa.gov/m/faq?cat=21#question-90,,,NO
-Mill Creek Police Department,WA,Snohomish,Mill Creek,https://millcreekwa.gov/topics/submit-requests-or-feedback-using-govqa,,,NO
-Monroe Police Department,WA,Snohomish,Monroe,https://monroewa.nextrequest.com/,,,NO
-Mukilteo Police Department,WA,Snohomish,Mukilteo,https://mukilteowa.gov/241/Mukilteo-Police-Department-Records-Divis,,,NO
-Tulalip Police Department,WA,Snohomish,Tulalip,FORM – Downloaded,,,NO
-Woodway Police Department,WA,Snohomish,Woodway,https://townofwoodwaywa.nextrequest.com/,,,NO
+Marysville Police Department,WA,Snohomish,Marysville,https://www.marysvillewa.gov/m/faq?cat=21#question-90,,HIGH,NO
+Mill Creek Police Department,WA,Snohomish,Mill Creek,https://millcreekwa.gov/topics/submit-requests-or-feedback-using-govqa,,MEDIUM,NO
+Monroe Police Department,WA,Snohomish,Monroe,https://monroewa.nextrequest.com/,,MEDIUM,NO
+Mukilteo Police Department,WA,Snohomish,Mukilteo,https://mukilteowa.gov/241/Mukilteo-Police-Department-Records-Divis,,LOW,NO
+Tulalip Police Department,WA,Snohomish,Tulalip,FORM – Downloaded,,MEDIUM,NO
+Woodway Police Department,WA,Snohomish,Woodway,https://townofwoodwaywa.nextrequest.com/,,LOW,NO
 Spokane County Sheriff's Office,WA,Spokane,N/A,https://spokanecountywa.govqa.us/WEBAPP/_rs/,,HIGH,NO
-Airway Heights Police Department,WA,Spokane,Airway Heights,https://cityofairwayheightswapd.nextrequest.com/,,,NO
-Cheney Police Department,WA,Spokane,Cheney,https://www.cityofcheney.org/157/Public-Records,,,NO
-Eastern WA University Police Department,WA,Spokane,Cheney,https://inside.ewu.edu/records-management/,,,NO
-Liberty Lake Police Department,WA,Spokane,Liberty Lake,https://www.libertylakewa.gov/521/Public-Records-Request,,,NO
+Airway Heights Police Department,WA,Spokane,Airway Heights,https://cityofairwayheightswapd.nextrequest.com/,,MEDIUM,NO
+Cheney Police Department,WA,Spokane,Cheney,https://www.cityofcheney.org/157/Public-Records,,LOW,NO
+Eastern WA University Police Department,WA,Spokane,Cheney,https://inside.ewu.edu/records-management/,,LOW,NO
+Liberty Lake Police Department,WA,Spokane,Liberty Lake,https://www.libertylakewa.gov/521/Public-Records-Request,,LOW,NO
 Spokane Airport Police Department,WA,Spokane,Spokane,Spokane County Sheriff's Office – Contracted,,HIGH,NO
 Spokane Police Department,WA,Spokane,Spokane,https://publicrecords-spokanewa.govqa.us/WEBAPP/_rs/,,HIGH,NO
-Spokane Valley Police Department,WA,Spokane,Spokane Valley,https://spokanecountywa.govqa.us/WEBAPP/_rs/,,,NO
+Spokane Valley Police Department,WA,Spokane,Spokane Valley,https://spokanecountywa.govqa.us/WEBAPP/_rs/,,HIGH,NO
 Stevens County Sheriff's Office,WA,Stevens,N/A,https://stevenscountywa.nextrequest.com/,,HIGH,NO
-Chewelah Police Department,WA,Stevens,Chewelah,https://www.cityofchewelah.org/1201/Public-Records,,,NO
-Colville Police Department,WA,Stevens,Colville,https://www.colville.wa.us/pview.aspx?id=35849&catid=0,,,NO
-Kettle Falls Police Department,WA,Stevens,Kettle Falls,https://www.cityofkettlefalls.org/police,,,NO
-Springdale Police Department,WA,Stevens,Springdale,UNKNOWN,,,NO
+Chewelah Police Department,WA,Stevens,Chewelah,https://www.cityofchewelah.org/1201/Public-Records,,LOW,NO
+Colville Police Department,WA,Stevens,Colville,https://www.colville.wa.us/pview.aspx?id=35849&catid=0,,LOW,NO
+Kettle Falls Police Department,WA,Stevens,Kettle Falls,https://www.cityofkettlefalls.org/police,,LOW,NO
+Springdale Police Department,WA,Stevens,Springdale,UNKNOWN,,LOW,NO
 Thurston County Sheriff's Office,WA,Thurston,N/A,https://thurstoncountywa.govqa.us/WEBAPP/_rs/,,HIGH,NO
-Evergreen State College Police Department,WA,Thurston,Olympia,https://www.evergreen.edu/policeservices,,,NO
-Lacey Police Department,WA,Thurston,Lacey,https://cityoflacey.org/public-records-request/,,,NO
+Evergreen State College Police Department,WA,Thurston,Olympia,https://www.evergreen.edu/policeservices,,LOW,NO
+Lacey Police Department,WA,Thurston,Lacey,https://cityoflacey.org/public-records-request/,,MEDIUM,NO
 Olympia Police Department,WA,Thurston,Olympia,https://www.olympiawa.gov/services/police_department/police_reports.php,,HIGH,NO
-Tenino Police Department,WA,Thurston,Tenino,https://www.cityoftenino.us/administration-city-hall/page/public-records-request-non-law-enforcement-form,,,NO
-Tumwater Police Department,WA,Thurston,Tumwater,https://www.ci.tumwater.wa.us/departments/police-department/records-reporting,,,NO
-Yelm Police Department,WA,Thurston,Yelm,UNKNOWN,,,NO
+Tenino Police Department,WA,Thurston,Tenino,https://www.cityoftenino.us/administration-city-hall/page/public-records-request-non-law-enforcement-form,,LOW,NO
+Tumwater Police Department,WA,Thurston,Tumwater,https://www.ci.tumwater.wa.us/departments/police-department/records-reporting,,MEDIUM,NO
+Yelm Police Department,WA,Thurston,Yelm,UNKNOWN,,LOW,NO
 Wahkiakum County Sheriff's Office,WA,Wahkiakum,N/A,https://wahkiakumcountywa.nextrequest.com/,,HIGH,NO
 Walla Walla County Sheriff's Office,WA,Walla Walla,N/A,https://wallawallacountywa.nextrequest.com/,,HIGH,NO
-College Place Police Department,WA,Walla Walla,College Place,https://cityofcollegeplacewa.nextrequest.com/,,,NO
-Walla Walla Police Department,WA,Walla Walla,Walla Walla,Check if same as Sheriff’s Office,,HIGH,NO
+College Place Police Department,WA,Walla Walla,College Place,https://cityofcollegeplacewa.nextrequest.com/,,LOW,NO
+Walla Walla Police Department,WA,Walla Walla,Walla Walla,Check if same as Sheriff’s Office,,MEDIUM,NO
 Whatcom County Sheriff's Office,WA,Whatcom,N/A,https://www.whatcomcounty.us/3044/Public-Records-Request---Sheriffs-Office,,HIGH,NO
-Bellingham Police Department,WA,Whatcom,Bellingham,https://cob.org/gov/public-records,,,NO
-Blaine Police Department,WA,Whatcom,Blaine,https://www.ci.blaine.wa.us/m/faq?cat=15#question-60,,,NO
-Everson Police Department,WA,Whatcom,Everson,https://www.ci.everson.wa.us/general_services___faq/public_record_requests.php,,,NO
-Ferndale Police Department,WA,Whatcom,Ferndale,https://cityofferndalewa.nextrequest.com/,,,NO
-Lynden Police Department,WA,Whatcom,Lynden,https://lyndenwa.org/244/Public-Records-Request,,,NO
-Sumas Police Department,WA,Whatcom,Sumas,UNKNOWN,,,NO
-Western WA University Police Department,WA,Whatcom,Bellingham,https://police.wwu.edu/public-records-request,,,NO
+Bellingham Police Department,WA,Whatcom,Bellingham,https://cob.org/gov/public-records,,HIGH,NO
+Blaine Police Department,WA,Whatcom,Blaine,https://www.ci.blaine.wa.us/m/faq?cat=15#question-60,,HIGH,NO
+Everson Police Department,WA,Whatcom,Everson,https://www.ci.everson.wa.us/general_services___faq/public_record_requests.php,,LOW,NO
+Ferndale Police Department,WA,Whatcom,Ferndale,https://cityofferndalewa.nextrequest.com/,,LOW,NO
+Lynden Police Department,WA,Whatcom,Lynden,https://lyndenwa.org/244/Public-Records-Request,,MEDIUM,NO
+Sumas Police Department,WA,Whatcom,Sumas,UNKNOWN,,MEDIUM,NO
+Western WA University Police Department,WA,Whatcom,Bellingham,https://police.wwu.edu/public-records-request,,LOW,NO
 Whitman County Sheriff's Office,WA,Whitman,N/A,UNKNOWN,,HIGH,NO
-Colfax Police Department,WA,Whitman,Colfax,https://colfaxwa.org/public-information-request,,,NO
-Colton Police Department,WA,Whitman,Colton,Unknown,,,NO
-Garfield Police Department,WA,Whitman,Garfield,Unknown,,,NO
-Malden Marshal's Office,WA,Whitman,Malden,Unknown,,,NO
-Oakesdale Marshal's Office,WA,Whitman,Oakesdale,Unknown,,,NO
-Palouse Police Department,WA,Whitman,Palouse,Unknown,,,NO
-Pullman Police Department,WA,Whitman,Pullman,https://www.pullman-wa.gov/services/police/public_records.php,,,NO
-Rosalia Police Department,WA,Whitman,Rosalia,Unknown,,,NO
-Uniontown Police Department,WA,Whitman,Uniontown,Unknown,,,NO
-WA State University Police Department,WA,Whitman,Pullman,https://wsu.nextrequest.com/,,,NO
+Colfax Police Department,WA,Whitman,Colfax,https://colfaxwa.org/public-information-request,,LOW,NO
+Colton Police Department,WA,Whitman,Colton,Unknown,,LOW,NO
+Garfield Police Department,WA,Whitman,Garfield,Unknown,,LOW,NO
+Malden Marshal's Office,WA,Whitman,Malden,Unknown,,LOW,NO
+Oakesdale Marshal's Office,WA,Whitman,Oakesdale,Unknown,,LOW,NO
+Palouse Police Department,WA,Whitman,Palouse,Unknown,,LOW,NO
+Pullman Police Department,WA,Whitman,Pullman,https://www.pullman-wa.gov/services/police/public_records.php,,MEDIUM,NO
+Rosalia Police Department,WA,Whitman,Rosalia,Unknown,,LOW,NO
+Uniontown Police Department,WA,Whitman,Uniontown,Unknown,,LOW,NO
+WA State University Police Department,WA,Whitman,Pullman,https://wsu.nextrequest.com/,,MEDIUM,NO
 Yakima County Sheriff's Office,WA,Yakima,N/A,https://www.yakimacounty.us/1880/Public-Records,,HIGH,NO
-Grandview Police Department,WA,Yakima,Grandview,Unknown,,,NO
-Granger Police Department,WA,Yakima,Granger,https://www.grangerwashington.org/m/directory/department?did=24,,,NO
-Mabton Police Department,WA,Yakima,Mabton,https://www.cityofmabton.com/home-page/page/public-records-request,,,NO
-Moxee Police Department,WA,Yakima,Moxee,Unknown,,,NO
-Selah Police Department,WA,Yakima,Selah,https://selahwa.nextrequest.com/,,,NO
-Sunnyside Police Department,WA,Yakima,Sunnyside,Unknown,,,NO
-Tieton Police Department,WA,Yakima,Tieton,Unknown,,,NO
-Toppenish Police Department,WA,Yakima,Toppenish,Unknown,,,NO
-Union Gap Police Department,WA,Yakima,Union Gap,https://uniongapwa.gov/public-records-request/,,,NO
-Wapato Police Department,WA,Yakima,Wapato,Unknown,,,NO
+Grandview Police Department,WA,Yakima,Grandview,Unknown,,LOW,NO
+Granger Police Department,WA,Yakima,Granger,https://www.grangerwashington.org/m/directory/department?did=24,,LOW,NO
+Mabton Police Department,WA,Yakima,Mabton,https://www.cityofmabton.com/home-page/page/public-records-request,,LOW,NO
+Moxee Police Department,WA,Yakima,Moxee,Unknown,,LOW,NO
+Selah Police Department,WA,Yakima,Selah,https://selahwa.nextrequest.com/,,LOW,NO
+Sunnyside Police Department,WA,Yakima,Sunnyside,Unknown,,MEDIUM,NO
+Tieton Police Department,WA,Yakima,Tieton,Unknown,,LOW,NO
+Toppenish Police Department,WA,Yakima,Toppenish,Unknown,,MEDIUM,NO
+Union Gap Police Department,WA,Yakima,Union Gap,https://uniongapwa.gov/public-records-request/,,MEDIUM,NO
+Wapato Police Department,WA,Yakima,Wapato,Unknown,,LOW,NO
 Yakima Police Department,WA,Yakima,Yakima,https://records.yakimawa.gov/,,HIGH,NO
-Zillah Police Department,WA,Yakima,Zillah,https://www.cityofzillah.us/government/public_records_request.php,,,NO
+Zillah Police Department,WA,Yakima,Zillah,https://www.cityofzillah.us/government/public_records_request.php,,LOW,NO
