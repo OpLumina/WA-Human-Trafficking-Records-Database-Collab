@@ -1,6 +1,6 @@
-# Human Trafficking Public Records Index
+# Anti-Human Trafficking Public Records Index
 
-Welcome to the Human Trafficking Public Records Index project. This repository serves as a centralized metadata registry to track public records requests, state and local portals, and information disclosures from Law Enforcement (LE) agencies.
+Welcome to the Anti-Human Trafficking Public Records Index project. This repository serves as a centralized metadata registry to track public records requests, state and local portals, and information disclosures from Law Enforcement (LE) agencies.
 
 ---
 
