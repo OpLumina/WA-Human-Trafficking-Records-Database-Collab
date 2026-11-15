@@ -11,7 +11,7 @@ We welcome contributions! Here are the primary ways you can help build and maint
 1. **Submit Public Records Requests**:
    * **Find an Agency**: Use `request-info.csv` to find an agency portal that needs a records request (check the `Already Requested` column).
    * **File the Request**: Use our standardized template (`WA-Request-Template.txt`) to submit the public records request via the agency's portal or contact email.
-   * **Forward Responses**: When you receive updates or responsive records, **do not upload raw files or PII to GitHub**. Forward all agency communications and record files directly to **cm.stupak@gmail.com**.
+   * **Forward Responses**: When you receive updates or responsive records, **do not upload raw files or PII to GitHub**. Forward all agency communications and record files directly to **christian@harboralliance.org**.
 
 2. **Update the Portal CSV Index**:
    * Edit `request-info.csv` to add new agency request portals, fix broken links, or update portal contact information. Ensure all entries follow our [Required CSV Schema](#required-csv-schema).
@@ -20,7 +20,7 @@ We welcome contributions! Here are the primary ways you can help build and maint
    * If adding public records portal data for a new state outside of Washington (e.g., Oregon), create a new directory named with its official two-letter state code and submit your changes via a Pull Request.
 
 4. **Access Data or Share Findings**:
-   * To request access to our central records database or share findings, contact project lead directly at **cm.stupak@gmail.com**.
+   * To request access to our central records database or share findings, contact project lead directly at **christian@harboralliance.org**.
 
 ---
 
@@ -60,9 +60,9 @@ Each row in `request-info.csv` must include the following fields:
 * **Agency Request Portal** — Direct web link or contact email to submit public records requests
 * **Request Type** — Type of request to be made (e.g. Email, Phone, Form, Web Portal)
 * **Priority** — How high the priority is to request that department's records (High, Medium, Low & Completed), Completed means the records have already been processed
-* **Already Requested** — If the records request has already been submitted, please generate a PR or email cm.stupak@gmail.com if a request is made so others don't request the same thing
+* **Already Requested** — If the records request has already been submitted, please generate a PR or email christian@harboralliance.org if a request is made so others don't request the same thing
 ---
 
 ## Questions or Safety Issues
 
-If you spot an accidental upload of sensitive data, notice broken portal links, or need clarification on cataloging an entry, please contact the project lead immediately at **cm.stupak@gmail.com** or open a non-sensitive GitHub Issue.
+If you spot an accidental upload of sensitive data, notice broken portal links, or need clarification on cataloging an entry, please contact the project lead immediately at **christian@harboralliance.org** or open a non-sensitive GitHub Issue.

@@ -10,13 +10,13 @@ Kennewick Police Department,WA,Benton,Kennewick,https://kennewick.justfoia.com/p
 Prosser Police Department,WA,Benton,Prosser,https://cityofprosserwa.nextrequest.com/,,LOW,NO
 Richland Police Department,WA,Benton,Richland,https://richlandwa.govqa.us/WEBAPP/_rs/SupportHome.aspx,,HIGH,NO
 West Richland Police Department,WA,Benton,West Richland,https://westrichlandwa.nextrequest.com/,,MEDIUM,NO
-Chelan County Sheriff's Office,WA,Chelan,N/A,sheriff.records@co.chelan.wa.us,Form to email,HIGH,NO
+Chelan County Sheriff's Office,WA,Chelan,N/A,sheriff.records@co.chelan.wa.us,Form to email,REQUESTED,YES
 Wenatchee Police Department,WA,Chelan,Wenatchee,https://www.wenatcheewa.gov/how-do-i/request-public-records,,HIGH,NO
-Clallam County Sheriff's Office,WA,Clallam,N/A,https://www.clallamcountywa.gov/625/Records-Request,,HIGH,NO
+Clallam County Sheriff's Office,WA,Clallam,N/A,https://www.clallamcountywa.gov/625/Records-Request,,REQUESTED,YES
 Forks Police Department,WA,Clallam,Forks,https://forkswashington.org/documents/public-records-request-form/,,LOW,NO
 Port Angeles Police Department,WA,Clallam,Port Angeles,https://www.cityofpa.us/825/Request-Police-Records,,HIGH,NO
 Sequim Police Department,WA,Clallam,Sequim,https://www.sequimwa.gov/823/Records,,LOW,NO
-Clark County Sheriff's Office,WA,Clark,N/A,https://clarkcountywa.mycusthelp.com/WEBAPP/_rs/SupportHome.aspx,,HIGH,NO
+Clark County Sheriff's Office,WA,Clark,N/A,https://clarkcountywa.mycusthelp.com/WEBAPP/_rs/SupportHome.aspx,,REQUESTED,YES
 Battle Ground Police Department,WA,Clark,Battle Ground,https://cityofbg.justfoia.com/publicportal/home/newrequest,,MEDIUM,NO
 Camas Police Department,WA,Clark,Camas,https://cityofcamas.justfoia.com/publicportal/home/newrequest,,MEDIUM,NO
 La Center Police Department,WA,Clark,La Center,https://ci.lacenter.wa.us/city-departments/administrative-services/public-records-requests/,,LOW,NO
@@ -24,7 +24,7 @@ Ridgefield Police Department,WA,Clark,Ridgefield,https://ridgefieldwa.nextreques
 Vancouver Police Department,WA,Clark,Vancouver,https://vancouverwa.mycusthelp.com/WEBAPP/_rs/supporthome.aspx,,COMPLETED,YES
 Washougal Police Department,WA,Clark,Washougal,https://cityofwashougal.nextrequest.com/,,LOW,NO
 WSU Vancouver Police Department,WA,Clark,Vancouver,https://wsu.nextrequest.com/,,LOW,NO
-Columbia County Sheriff's Office,WA,Columbia,N/A,https://columbiacountywa.mycusthelp.com/webapp/_rs/supporthome.aspx,,HIGH,NO
+Columbia County Sheriff's Office,WA,Columbia,N/A,https://columbiacountywa.mycusthelp.com/webapp/_rs/supporthome.aspx,,REQUESTED,YES
 Cowlitz County Sheriff's Office,WA,Cowlitz,N/A,https://cowlitzcountysheriff.justfoia.com/publicportal/home/newrequest,,HIGH,NO
 Castle Rock Police Department,WA,Cowlitz,Castle Rock,https://crpolice.org/Forms/public_disclosure_request.pdf,,LOW,NO
 Kalama Police Department,WA,Cowlitz,Kalama,https://kalamawa.justfoia.com/publicportal/home/track,,LOW,NO
@@ -245,3 +245,4 @@ Union Gap Police Department,WA,Yakima,Union Gap,https://uniongapwa.gov/public-re
 Wapato Police Department,WA,Yakima,Wapato,Unknown,,LOW,NO
 Yakima Police Department,WA,Yakima,Yakima,https://records.yakimawa.gov/,,HIGH,NO
 Zillah Police Department,WA,Yakima,Zillah,https://www.cityofzillah.us/government/public_records_request.php,,LOW,NO
+El Paso Police Department,TX,El Paso,El Paso,https://eppd.org/public-services/records-reports,,REQUESTED,YES
